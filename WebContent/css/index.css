@@ -1,0 +1,22 @@
+.logo {
+	width: 100px;
+	height: 100px;
+	float: left;
+	margin-left: 500px;
+	margin-top: 200px;
+}
+
+.title {
+	width: 500px;
+	height: 100px;
+	float: left;
+	margin-top: 200px;
+}
+
+.login {
+	width: 402px;
+	height: 250px;
+	float: left;
+	margin-left: 550px;
+	margin-top: 0px;
+}

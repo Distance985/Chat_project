@@ -1,0 +1,21 @@
+.bg {
+	width: 1580px;
+	height: 790px;
+}
+
+.bottom {
+	width: 1550px;
+	height: 50px;
+	float: left;
+	margin-left: 5px;
+}
+
+.input {
+	opacity: 0.5;
+	width: 200px;
+	height: 30px;
+}
+
+div {
+	border: 0px solid black;
+}

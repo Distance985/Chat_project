@@ -1,0 +1,29 @@
+#banner {
+	padding: 30px;
+	height: 30px;
+	text-align: center;
+}
+
+table {
+	height: 20px;
+	width: 1000px;
+	margin-left: 180px;
+	margin-right: 220px;
+	color: white;
+}
+
+#footer {
+	color: white;
+	height: 40px;
+	align-content: center;
+}
+
+#content {
+	height: 562px;
+}
+
+#bottom {
+	clear: both;
+	padding: 50px;
+	height: 80px;
+}

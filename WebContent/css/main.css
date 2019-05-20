@@ -1,0 +1,85 @@
+.top {
+	width: 1570px;
+	height: 60px;
+	float: left;
+}
+
+.friends {
+	width: 700px;
+	height: 645px;
+	float: left;
+	clear: left;
+	margin-top: 20px;
+}
+
+.weather {
+	width: 300px;
+	height: 25px;
+	float: left;
+	margin-left: 520px;
+	margin-top: 15px;
+}
+
+.music {
+	width: 300px;
+	height: 200px;
+	float: left;
+	margin-left: 100px;
+	margin-top: 35px;
+}
+
+.tips {
+	width: 300px;
+	height: 200px;
+	float: left;
+	margin-left: 35px;
+	margin-top: 35px;
+}
+
+.notice {
+	width: 300px;
+	height: 200px;
+	float: left;
+	margin-left: 100px;
+	margin-top: 50px;
+}
+
+.email_notice {
+	width: 300px;
+	height: 200px;
+	float: left;
+	margin-top: 50px;
+	margin-left: 35px;
+}
+
+.operation {
+	width: 625px;
+	height: 50px;
+	float: left;
+	margin-left: 100px;
+	margin-top: 50px;
+}
+
+.title {
+	float: left;
+	margin-top: 5px;
+	margin-left: 60px;
+}
+
+.head {
+	width: 50px;
+	height: 50px;
+	float: left;
+	margin-top: 10px;
+	margin-left: 900px;
+}
+
+.username {
+	float: left;
+	margin-top: 30px;
+	margin-left: 20px;
+}
+
+font {
+	color: white;
+}
